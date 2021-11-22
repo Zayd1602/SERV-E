@@ -83,5 +83,6 @@ problems up till some extent.</p>
         <li>Swarup Tripathy :smile: </li>
     </ul>
 <a href = "https://github.com/Swarzinium-369/SERV-E/graphs/contributors">
+   <a href = "https://github.com/Zayd1602/SERV-E"> 
   <img src = "https://contrib.rocks/image?repo=Swarzinium-369/SERV-E"/>
 </a>
